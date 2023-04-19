@@ -1,5 +1,6 @@
-[{
+ [
 
+                {
                     "id": 0,
                     "name": "iphone 14",
                     "brand": "apple",
@@ -25,12 +26,11 @@
                     },
                     {
                     "id": 3,
-                    "name": "Xiaomi redmi 11",
-                    "brand": "Xiaomi",
-                    "description": "xiaomi",
-                    "price": "23,000",
-                    "image": "images/xiaomi.png"
-                }
-            ]
+                    "name": "Realme 9 Pro",
+                    "brand": "Realme",
+                    "description": "Realme",
+                    "price": "18,000",
+                    "image": "images/realme.jpg"
+                }]
             
 	
