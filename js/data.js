@@ -45,6 +45,7 @@ fetch('data.json')
 });
 function appendData(data) {
 var mainContainer = document.getElementById("myData");
+// var success = document.getElementById("alert');
 for (var i = 0; i < data.length; i++) {
 
 	 var div = document.createElement("div");
