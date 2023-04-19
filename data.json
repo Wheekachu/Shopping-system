@@ -1,0 +1,36 @@
+[{
+
+                    "id": 0,
+                    "name": "iphone 14",
+                    "brand": "apple",
+                    "description": "iphone 15",
+                    "price": "65,000",
+                    "image": "images/iphone14.png"
+                },
+                {
+                    "id": 1,
+                    "name": "Samsung Galaxy Note 10+",
+                    "brand": "Samsung",
+                    "description": "Samsung Note 10+",
+                    "price": "43,000",
+                    "image": "images/samsung.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Xiaomi redmi 11",
+                    "brand": "Xiaomi",
+                    "description": "xiaomi",
+                    "price": "23,000",
+                    "image": "images/xiaomi.png"
+                    },
+                    {
+                    "id": 3,
+                    "name": "Xiaomi redmi 11",
+                    "brand": "Xiaomi",
+                    "description": "xiaomi",
+                    "price": "23,000",
+                    "image": "images/xiaomi.png"
+                }
+            ]
+            
+	
